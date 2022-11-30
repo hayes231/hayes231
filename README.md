@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hayes231
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate on small simple projects
